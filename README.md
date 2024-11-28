@@ -8,15 +8,16 @@
 ## Sobre mi
 -  Estudiante de progranacion
 -  Amante del arte
-<br>
-
+   
 > ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/AlejoR147">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejoR147&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejoR147&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 <!--
 **AlejoR147/AlejoR147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
