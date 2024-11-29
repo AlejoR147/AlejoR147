@@ -6,8 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/AlejoR147?style=social)](https://github.com/AlejoR147)
 
 ## Sobre mi
--  Estudiante de progranacion
--  Amante del arte
+- 📘 Estudiante de progranacion
+- 🖌️ Amante del arte
 
 ### ⚙️ &nbsp;GitHub Analytics
 
