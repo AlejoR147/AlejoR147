@@ -1,7 +1,8 @@
  <div align="center">
 <h1 align="center">Hi, i am <a href="https://www.instagram.com/ronan_1_/">Ronan</a> 👋</h1>
 </div>
-<img src="https://static.vecteezy.com/system/resources/previews/000/344/684/non_2x/programming-code-on-laptop-banner-vector-flat-illustration.jpg">
+<img src="https://github.com/user-attachments/assets/f74b528d-1649-4f26-9208-2ff96992ca94">
+
 
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![netlify](https://camo.githubusercontent.com/a8049edfcaa0e0abbaa824eaed3cb205a09b428f892d51673ed02827cb2a6b7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465)
