@@ -20,7 +20,9 @@ I am a student passionate about knowledge, programming and art.
 - 🚩
 I am a person capable of leading.
 - 🖌️ In my free time I like to play video games, draw and play the piano.
-- 🎓 Estoy cursando una tecnica en desarrollo de software en la univerisdad pontificia bolivariana (UPB) y un bootcamp en base de daros son @softserve.
+- 🎓 
+I am studying a software development technique at the Pontifical Bolivarian University (UPB) and a database bootcamp with @softserve.
+- 🤖 I took an AI course which aimed to strengthen skills for data analysis, statistical inference, and the construction of mathematical models through the appropriation of Artificial Intelligence tools that contribute to the development of productivity skills.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
