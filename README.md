@@ -1,7 +1,7 @@
  <div align="center">
 <h1 align="center">Hi, i am <a href="https://www.instagram.com/ronan_1_/">Ronan</a> 👋</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/f74b528d-1649-4f26-9208-2ff96992ca94">
+<img src="https://github.com/user-attachments/assets/86513a38-0379-4fa0-81a2-2af40a389152">
 
 
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
