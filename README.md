@@ -14,9 +14,13 @@
 )
 
 
-## Sobre mi
-- 📘 Estudiante de progranacion
-- 🖌️ Amante del arte
+## 😲 Sobre mi
+- 📘 
+I am a student passionate about knowledge, programming and art.
+- 🚩
+I am a person capable of leading.
+- 🖌️ In my free time I like to play video games, draw and play the piano.
+- 🎓 Estoy cursando una tecnica en desarrollo de software en la univerisdad pontificia bolivariana (UPB) y un bootcamp en base de daros son @softserve.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
