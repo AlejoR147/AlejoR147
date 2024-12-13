@@ -14,7 +14,7 @@
 )
 
 
-## 😲 Sobre mi
+## 😲 About me
 - 📘 
 I am a student passionate about knowledge, programming and art.
 - 🚩
