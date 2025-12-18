@@ -2,7 +2,7 @@
 <h1 align="center">Hi, i am <a href="https://www.instagram.com/ronan_1_/">Ronan</a> 👋</h1>
 </div>
 
-![Agregar texto (1)](https://github.com/user-attachments/assets/bfb98f8e-3e8f-464b-a5e8-26c38be4b8af)
+![BANNER AlejoR147 (1)](https://github.com/user-attachments/assets/bfb98f8e-3e8f-464b-a5e8-26c38be4b8af)
 
 
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,14 +16,20 @@
 
 
 ## 😲 About me
-- 📘 
-I am a student passionate about knowledge, programming and art.
-- 🚩
-I am a person capable of leading.
-- 🖌️ In my free time I like to play video games, draw and play the piano.
+- 💻 
+I enjoy building solutions through code and constantly learning new technologies. I have experience working with programming fundamentals, databases, and problem-solving approaches.
+
+- 🎨 
+Outside of coding, I enjoy drawing, playing video games, and playing the piano, activities that inspire my creativity and analytical thinking.
+
 - 🎓 
-I am studying a software development technique at the Pontifical Bolivarian University (UPB) and a database bootcamp with @softserve.
-- 🤖 I took an AI course which aimed to strengthen skills for data analysis, statistical inference, and the construction of mathematical models through the appropriation of Artificial Intelligence tools that contribute to the development of productivity skills.
+I completed a Software Development technical program at the Pontifical Bolivarian University (UPB) and a Database Bootcamp with SoftServe.
+
+- 🤖
+I also completed an Artificial Intelligence course focused on data analysis, statistical inference, and mathematical modeling using AI tools to enhance productivity and technical skills.
+
+- 🚀
+Always motivated to learn, grow, and take on new challenges in the tech field.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
