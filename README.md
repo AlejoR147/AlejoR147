@@ -35,7 +35,7 @@ Always motivated to learn, grow, and take on new challenges in the tech field.
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejoR147&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejoR147&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejoR147&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejoR147&layout=compact&langs_count=8&bg_color=161b22&title_color=58a6ff&text_color=8b949e&hide_border=true"/>
 </a>
 </p>
